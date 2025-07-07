@@ -85,26 +85,5 @@ This system simulates real-world implementation for schools, colleges, or any ac
 
 ---
 
-## 🛠️ Setup Instructions
-
-```bash
-# 1. Clone the project
-git clone https://github.com/yourusername/attendance-management-system.git
-
-# 2. Move project to XAMPP htdocs (or WAMP/www)
-mv attendance-management-system /xampp/htdocs/
-
-# 3. Import SQL
-Open phpMyAdmin → Create DB `attendance_db` → Import `attendance_db.sql`
-
-# 4. Configure database
-Edit `/includes/dbcon.php`
-define('DB_SERVER', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'attendance_db');
-
-# 5. Run the application
-http://localhost/attendance-management-system/
 
 
