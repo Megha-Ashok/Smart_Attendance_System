@@ -60,18 +60,19 @@ This system simulates real-world implementation for schools, colleges, or any ac
 ## 📷 Screenshots
 
 ### 🔐 Login Panel
-![Login Page]<p align="center">
-  <img src="Screenshot%202025-07-07%20100453.png" width="800"/>
+<p align="center">
+  <img src="Screenshot%202025-07-07%20100453.png" width="500"/>
 </p><br>
 
 ### 📊 Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+<p align="center">
+  <img src="Screenshot%202025-07-07%20100453.png" width="500"/>
+</p><br>
 
 ### 👨‍🏫 Teacher Dashboard
-![Teacher Dashboard](./screenshots/teacher-dashboard.png)
-
-### 📅 Attendance View & Filter
-![View Attendance](./screenshots/view-attendance.png)
+<p align="center">
+  <img src="Screenshot%202025-07-07%20100453.png" width="500"/>
+</p><br>
 
 ---
 
