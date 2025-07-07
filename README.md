@@ -60,7 +60,7 @@ This system simulates real-world implementation for schools, colleges, or any ac
 ## 📷 Screenshots
 
 ### 🔐 Login Panel
-![Login]()
+![Login](Screenshot 2025-07-07 100453.png)
 
 ### 📊 Admin Dashboard
 ![Admin Dashboard](./screenshots/admin-dashboard.png)
