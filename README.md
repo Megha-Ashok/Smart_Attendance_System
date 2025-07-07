@@ -2,7 +2,7 @@
 
 > A full-featured, role-based web application to streamline attendance tracking for educational institutions. Built with PHP, MySQL, JavaScript, and deployed on InfinityFree, this system empowers administrators and teachers with real-time attendance management, analytics, and report generation.
 
-[🔗 Live Demo](https://smartattendence.rf.gd) &nbsp; |
+[🔗 Live Demo](https://smartattendence.rf.gd) &nbsp;
 
 ---
 
