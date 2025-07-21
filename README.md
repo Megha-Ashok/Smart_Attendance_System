@@ -68,6 +68,7 @@ This system simulates real-world implementation for schools, colleges, or any ac
 <p align="center">
   <img src="Screenshot%202025-07-07%20100510.png" width="500"/>
 </p><br>
+
 ### 👨‍🏫 Teacher Dashboard
 <p align="center">
   <img src="Screenshot%202025-07-07%20100533.png" width="500"/>
